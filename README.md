@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi, I'm a Computational Physicist with interests in Machine Learning and software development 👋
 
 <!--
 **MarcBrueck/MarcBrueck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on using Machine Learning to create Potential Energy Surfaces for Molecular Dynamics Simulations
+### 🔭 I’m currently working on using Machine Learning to create Potential Energy Surfaces for Molecular Dynamics Simulations
 - 🌱 I’m currently learning Databases/SQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 I’m currently working on using Machine Learning to create Potential Energy Surfaces for Molecular Dynamics Simulations
