@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on using Machine Learning to create Potential Energy Surfaces for Molecular Dynamics Simulations
+🔭 I’m currently working on using Machine Learning to create Potential Energy Surfaces for Molecular Dynamics Simulations
 - 🌱 I’m currently learning Databases/SQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
