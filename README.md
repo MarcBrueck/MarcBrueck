@@ -1,4 +1,4 @@
-### Hi, I'm a Computational Physicist with interests in Machine Learning and software development 👋
+### Hi, I'm a Software Engineer with interests in Machine Learning and Computational Physics 👋
 
 <!--
 **MarcBrueck/MarcBrueck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 I’m currently working on using Machine Learning to create Potential Energy Surfaces for Molecular Dynamics Simulations
+
